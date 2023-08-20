@@ -1,0 +1,3 @@
+[build]
+  command = "go build cmd/main.go"
+
