@@ -9,12 +9,11 @@
 
 ## Setup
 - Checkout the Repo from https://github.com/jdevhari/GoClickHouseApp.git
-- cd ui
-- Execute the following command
-  ``` npm install ```
+- `cd GoClickHouseApp` and then `cd ui`
+- Execute the following command `npm install ` to install the JS dependencies
   
 ## Backend Setup
-- cd cmd folder and execute ```go run main.go ```
+- `cd cmd` and execute ```go run main.go ```
 - Access the application at http://localhost:3000
 - By default the packaged UI layer in ui/dist folder is served
 
