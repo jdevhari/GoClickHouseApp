@@ -16,8 +16,8 @@
 
 ## Technology Stack
 - Clickhouse as Repository
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) with GoFiber as Api Stack
-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) as UI framework and Apache ECharts as Charting Component
+- Go with GoFiber as Api Stack
+- Angular as UI framework and Apache ECharts as Charting Component
 
 ## Quick Start & Demo
 - Ensure you have Go Installed
