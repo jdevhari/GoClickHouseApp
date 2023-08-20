@@ -17,8 +17,12 @@
 - Access the application at http://localhost:3000
 - By default the packaged UI layer in ui/dist folder is served
 
-## UI development Setup
+## UI 
+### Development Setup
 - cd to ui folder and execute ```npm run start ```
 - For backend api, the UI layer connects to http://localhost:3000
 - Access the Reloadable UI application at http://localhost:4200
 - Access the PreBuilt   UI application at http://localhost:3000
+
+### Build
+- cd to ui folder and execute ```npm run build ```
