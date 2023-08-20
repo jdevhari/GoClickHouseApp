@@ -10,9 +10,9 @@
 - [References](#References)
 
 ## Scope
-- Setup a Clickhouse instance. Populate NIFTY tickdata for a trading day
-- Develop backend Api using GoLang & GoFiber
-- In web page render NIFTY Tick Data at 5min, 15min or 1 Hour interval fetching data from Clickhouse Datastore and massaging data in GoLang Api
+- Setup a Clickhouse repository. Populate NIFTY tickdata for a trading day.
+- Develop backend Apis using GoLang & GoFiber
+- Render NIFTY Tick Data as Candlesticks at 5min, 15min or 1 Hour interval fetching data from Clickhouse Datastore and massaging data in GoLang Api
 
 ## Technology Stack
 - Clickhouse as Repository
