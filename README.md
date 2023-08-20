@@ -7,6 +7,7 @@
 - [Full Development setup](#Full-Development-setup)
 - [Screenshots](#Screenshots)
 - [Next Steps](#Next-Steps)
+- [References](#References)
 
 ## Scope
 - Setup a Clickhouse instance. Populate NIFTY tickdata for a trading day
@@ -45,3 +46,7 @@
 ![1 Hr TimeFrame.](/assets/60.jpg)
 
 ## Next Steps
+- Deploy to AWS
+
+## References
+- [Using ClickHouse for financial market data - Christoph Wurm (ClickHouse)](https://www.youtube.com/watch?v=Ojv6LPXKy2U&ab_channel=ClickHouse)
