@@ -50,3 +50,5 @@
 
 ## References
 - [Using ClickHouse for financial market data - Christoph Wurm (ClickHouse)](https://www.youtube.com/watch?v=Ojv6LPXKy2U&ab_channel=ClickHouse)
+- [ClickHouse for Financial Analytics - Baudouin Giard (Bloomberg)](https://www.youtube.com/watch?v=HmJTIrGyVls&t=188s&ab_channel=ClickHouse)
+- [Introduction to High-Velocity Analytics Using ClickHouse Arrays | ClickHouse Webinar | Altinity](https://www.youtube.com/watch?v=hAzrhKhNqds&ab_channel=Altinity)
