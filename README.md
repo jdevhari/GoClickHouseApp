@@ -32,6 +32,8 @@
 - Refer to [Development Setup](DEVELOPMENT.md)
 
 ## Screenshots
+[!NOTE]
+The NIFTY tickdata data has been generated randomly. Dont be alarmed by the Volatality :blush:
 
 ### 1 Min Timeframe
 ![1 Min TimeFrame.](/assets/1.jpg)
