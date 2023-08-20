@@ -15,9 +15,9 @@
 - Render NIFTY Tick Data as Candlesticks at 5min, 15min or 1 Hour interval fetching data from Clickhouse Datastore and massaging data in GoLang Api
 
 ## Technology Stack
-- Clickhouse as Repository
-- Go with GoFiber as Api Stack
-- Angular as UI framework and Apache ECharts as Charting Component
+- [Clickhouse](https://clickhouse.com/) as Repository
+- [Go](https://go.dev/) with [GoFiber](https://gofiber.io/) as Api Stack
+- [Angular](https://angular.io/) as UI framework and [Apache ECharts](https://echarts.apache.org/) as Charting Component
 
 ## Quick Start & Demo
 - Ensure you have Go Installed
