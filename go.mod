@@ -3,7 +3,7 @@ module github.com/jdevhari/GoClickHouseApp
 go 1.21.0
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.1
+	github.com/gofiber/fiber/v2 v2.52.5
 	github.com/mailru/go-clickhouse/v2 v2.1.0
 )
 
